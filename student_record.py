@@ -15,6 +15,7 @@ class StudentRecord:
         n = len(keys)
         for key in keys:
             total +=  self.grade_dict[key]
-        av_grade = 
+        av_grade = total/n
+        return av_grade
 
     
