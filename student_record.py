@@ -14,6 +14,6 @@ class StudentRecord:
         keys = self.grade_dict.keys
         n = len(keys)
         for key in keys:
-            total = total + self.grade_dict[key]
+            total +=  self.grade_dict[key]
 
     
