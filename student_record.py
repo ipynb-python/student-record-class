@@ -16,7 +16,7 @@ class StudentRecord:
             module = key
             grade = self.grade_dict[key]
             mystr += f"  {module}: {grade} \n"
-        mystr += f"Average Grade: {self.calculate_grade_average()}"
+        mystr += f"Average Grade: {self.calculate_grade_average()}\n"
         mystr += "*"*30
         return mystr
 
