@@ -8,7 +8,7 @@
 
 ### Methods:
  - `__init__()`
- - `enter_
+ - `enter_grade()`
  - `calculate_grade_average()`
  - `__str__()`
 
