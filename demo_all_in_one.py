@@ -3,8 +3,8 @@ class StudentRecord:
         self.name = name
         self.student_num = student_num
         self.degree = degree
-        
         self.grade_dict = {}
+        i
         return
     
     def __str__(self):
