@@ -1,8 +1,10 @@
 Example Data:
 
-Emmet Brown
+Name: Emmet Brown
 
+18382010
 
+BSc Physics
 
 PHYS205 55
 MATH220 75
