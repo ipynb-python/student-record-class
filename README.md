@@ -12,8 +12,4 @@
  - `calculate_grade_average()`
  - `__str__()`
 
-Example Data:
-PHYS205 55
-MATH220 75
-LANG201 80
 

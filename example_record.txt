@@ -1,0 +1,6 @@
+Example Data:
+
+
+PHYS205 55
+MATH220 75
+LANG201 80
