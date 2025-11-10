@@ -4,7 +4,8 @@ class StudentRecord:
         self.student_num = student_num
         self.degree = degree
         self.grade_dict = {}
-        if 
+        if grade_dict is not None:
+            
         return
     
     def __str__(self):
