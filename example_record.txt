@@ -8,3 +8,5 @@ Grades:
 PHYS205 55
 MATH220 75
 LANG201 80
+
+Average should be 70%
