@@ -7,7 +7,7 @@ class StudentRecord:
         return
     
     def __str__(self):
-        mystr = "*"*30
+        mystr = "*"*30+"\n"
         mystr += self.name+"\n"
         mystr += f"Student Number: {self.student_num}\n"
         mystr += f"Degree: {self.degree}\n"
