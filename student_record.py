@@ -8,7 +8,8 @@ class StudentRecord:
     
     def __str__(self):
         mystr = ""
-        mystr += 
+        mystr += self.name+"\n"
+        
 
     def enter_grade(self, module_code, grade):
         self.grade_dict[module_code] = grade
