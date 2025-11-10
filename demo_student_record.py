@@ -5,4 +5,4 @@ student1.enter_grade("PHYS205", 55)
 student1.enter_grade("MATH220", 75)
 student1.enter_grade("LANG201", 80)
 
-print(student1.name)
+print(student1.grade_dict)
