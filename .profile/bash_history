@@ -1,2 +1,3 @@
 conda activate base
 python demo_student_record.py 
+python demo_all_in_one.py 
