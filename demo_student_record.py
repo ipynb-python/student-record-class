@@ -6,4 +6,4 @@ student1.enter_grade("MATH220", 75)
 student1.enter_grade("LANG201", 80)
 student1.enter_grade("COMP101", 90)
 
-print( student1.calculate_grade_average() )
+print( student1 )
