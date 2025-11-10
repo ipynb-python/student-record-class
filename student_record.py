@@ -7,6 +7,6 @@ class StudentRecord:
         return
     
     def enter_grade(self, module_code, grade):
-        self.
+        self.grade_dict[module_code] 
 
     
