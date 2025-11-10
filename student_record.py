@@ -11,7 +11,7 @@ class StudentRecord:
 
     def calculate_grade_average(self):
         total = 0
-        keys = self.grade_dict.keys
+        keys = self.grade_dict.keys()
         n = len(keys)
         for key in keys:
             total +=  self.grade_dict[key]
