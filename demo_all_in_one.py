@@ -4,7 +4,7 @@ class StudentRecord:
         self.student_num = student_num
         self.degree = degree
         self.grade_dict = {}
-        i
+        if 
         return
     
     def __str__(self):
