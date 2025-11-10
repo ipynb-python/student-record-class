@@ -13,8 +13,9 @@ class StudentRecord:
         mystr += f"Degree: {self.degree}\n"
         mystr += "Modules & Grades:\n"
         for key in self.grade_dict.keys():
-            module = 
-            mystr += f"  {self.grade_dict[key]} \n"
+            module = self.grade_dict[key]
+            grade = self.grade_dict[key]
+            mystr += f"  {} \n"
 
 
     def enter_grade(self, module_code, grade):
