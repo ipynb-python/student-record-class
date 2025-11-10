@@ -1,7 +1,7 @@
 Example Data:
 
 Name: Emmet Brown
-Student number: 18382010
+Student number: 239
 Degree: BSc Physics
 
 Grades:
