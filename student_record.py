@@ -13,6 +13,7 @@ class StudentRecord:
         total = 0
         keys = self.grade_dict.keys
         n = len(keys)
-        
+        for key in keys:
+            total = total + self.grade_dict[]
 
     
