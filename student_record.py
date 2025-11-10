@@ -13,7 +13,7 @@ class StudentRecord:
         mystr += f"Degree: {self.degree}\n"
         mystr += "Modules & Grades:\n"
         for key in self.grade_dict.keys():
-            module = self.grade_dict[key]
+            module = key
             grade = self.grade_dict[key]
             mystr += f"  {} \n"
 
