@@ -15,7 +15,7 @@ class StudentRecord:
         for key in self.grade_dict.keys():
             module = key
             grade = self.grade_dict[key]
-            mystr += f"  {} \n"
+            mystr += f"  {module}: {grade} \n"
 
 
     def enter_grade(self, module_code, grade):
