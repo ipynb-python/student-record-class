@@ -16,7 +16,7 @@ class StudentRecord:
             module = key
             grade = self.grade_dict[key]
             mystr += f"  {module}: {grade} \n"
-        mystr += f"Average Grade: {}"
+        mystr += f"Average Grade: {self.calculate_grade_average}"
 
 
     def enter_grade(self, module_code, grade):
