@@ -11,7 +11,7 @@
  - `calculate_grade_average()`
  - `__str__()`
 
-PHYS205
-MATH220
-LANG201
+PHYS205 55
+MATH220 75
+LANG201 80
 
