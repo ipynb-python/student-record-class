@@ -1,3 +1,3 @@
 from student_record import StudentRecord
 
-student1 = Student(""name, student_num, degree)
+student1 = Student("Emmet Brown", 239, degree)
