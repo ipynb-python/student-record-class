@@ -1,5 +1,5 @@
 class StudentRecord:
-    def __init__(self, name, student_num="not yet enrolled", degree):
+    def __init__(self, name, student_num, degree, ):
         self.name = name
         self.student_num = student_num
         self.degree = degree
