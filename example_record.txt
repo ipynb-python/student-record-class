@@ -1,10 +1,8 @@
 Example Data:
 
 Name: Emmet Brown
-
-18382010
-
-BSc Physics
+Student number: 18382010
+Degree: BSc Physics
 
 PHYS205 55
 MATH220 75
