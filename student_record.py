@@ -10,6 +10,7 @@ class StudentRecord:
         self.grade_dict[module_code] = grade
 
     def calculate_grade_average(self):
-        
+        total = 0
+        n
 
     
