@@ -4,6 +4,7 @@ Name: Emmet Brown
 Student number: 18382010
 Degree: BSc Physics
 
+Grades:
 PHYS205 55
 MATH220 75
 LANG201 80
