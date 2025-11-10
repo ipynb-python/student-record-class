@@ -9,7 +9,7 @@ class StudentRecord:
     def __str__(self):
         mystr = ""
         mystr += self.name+"\n"
-        mystr += self.student_num+"\n"
+        mystr += f"self.student_num\n"
 
     def enter_grade(self, module_code, grade):
         self.grade_dict[module_code] = grade
