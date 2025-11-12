@@ -12,4 +12,5 @@
  - `calculate_grade_average()`
  - `__str__()`
 
+Init is setup with a default empty grade dictionary
 
